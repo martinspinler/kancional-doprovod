@@ -1,0 +1,32 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Mat--ko pře--sva--tá,\nlás--kou bo--ha--tá,\nzdrá--vas, Pan--no Ma--ri--a.\nPan--no pře--čis--tá,\no--chra--no jis--tá,\no--ro--duj za nás, ó Ma--ri--a.\nPan--no pře--čis--tá,\no--chra--no jis--tá,\no--ro--duj za nás, ó Ma--ri--a."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ve všech sla--bos--tech,\nve všech sta--ros--tech\npo--si--luj nás, Ma--ri--a.\nNe--dej u--mdlé--vat,\nsmu--tku po--dlé--hat,\no--ro--duj za nás, ó Ma--ri--a.\nNe--dej u--mdlé--vat,\nsmu--tku po--dlé--hat,\nO--ro--duj za nás, ó Ma--ri--a."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Jis--tý pří--sta--ve\nv_plav--bě kla--ma--vé,\nzdrá--vas, Pan--no Ma--ri--a.\nPro svo--je slas--ti,\npro svo--je stras--ti\no--ro--duj za nás, ó Ma--ri--a.\nPro svo--je slas--ti,\npro svo--je stras--ti\no--ro--duj za nás, ó Ma--ri--a."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Pan--no, o--chraň nás\nv_ten--to smut--ný čas,\nvy--slyš nás, ó Ma--ri--a.\nDů--vě--ra v_te--be\nlék nám dá z_ne--be,\no--ro--duj za nás, ó Ma--ri--a.\nDů--vě--ra v_te--be\nlék nám dá z_ne--be,\no--ro--duj za nás, ó Ma--ri--a."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "V_kaž--dém tou--že--ní,\nv_kaž--dém sou--že--ní\nk_nám se na--kloň, Ma--ri--a.\nV_do--bě po--sled--ní\nna nás po--hléd--ni,\no--ro--duj za nás, ó Ma--ri--a.\nV_do--bě po--sled--ní\nna nás po--hléd--ni,\no--ro--duj za nás, ó Ma--ri--a."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+    }
+}

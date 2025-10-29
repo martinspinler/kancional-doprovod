@@ -1,0 +1,27 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ne--dej--me se k_spán--ku svés--ti,\nbdě--me pod ko--rouh--ví kří--že,\njdě--me v_boj za pra--vé štěs--tí,\nkaž--dým kro--kem ne--bi blí--že.\nK_ne--bi ve--de ces--ta jis--tá\ntěm, kdo pra--cí kaž--do--den--ní\nná--sle--du--jí věr--ně Kris--ta\nv_zá--pa--se a u--tr--pe--ní.\nNes--me kříž svůj, měj--me ví--ru,\nže nám po--mů--že jej nés--ti.\nV_čas--ném svě--tě ne--ní mí--ru,\nne--dej--me se k_spán--ku svés--ti."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "So--tva tu--šil vla--dař svět--ský\npři svém kru--tém roz--sou--ze--ní,\nže je Je--žíš Na--za--ret--ský\nvše--ho svě--ta vy--kou--pe--ní.\nSta--teč--ně náš Pán šel k_cí--li,\nšel až na smrt na--ší vi--nou.\nJe--ho by--chom o--pus--ti--li,\nkdy--by--chom šli ces--tou ji--nou.\nNes--me kříž svůj, měj--me ví--ru,\nže nám po--mů--že jej nés--ti.\nV_čas--ném svě--tě ne--ní mí--ru,\nne--dej--me se k_spán--ku svés--ti."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Slas--ti svě--ta, slá--vu vrat--kou\no--bě--tuj--me pro svou spá--su,\nod--mě--nou nám bu--de slad--kou\nvi--dět věč--ně Bo--ží krá--su.\nO--bě--tuj--me svo--je ži--tí,\nod--dej--me se Bo--hu ce--le,\nať pak mů--žem věč--ně zří--ti\nv_ne--bi své--ho Spa--si--te--le.\nNes--me kříž svůj, měj--me ví--ru,\nže nám po--mů--že jej nés--ti.\nV_čas--ném svě--tě ne--ní mí--ru,\nne--dej--me se k_spán--ku svés--ti."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ješ--tě dřív, než doj--dem k_Pá--nu,\nnež nás k_ho--dům lás--ky při--jme,\nv_bí--lém ša--tě ne--beš--ťa--nů\nuž na té--to ze--mi žij--me;\no--sví--ce--ni bož--skou zá--ří,\nv_srd--ci ži--vé slo--vo Pá--ně,\ns_lás--kou v_o--ku, s_mí--rem v_tvá--ři\npojď--me s_Kris--tem od--hod--la--ně.\nNes--me kříž svůj, měj--me ví--ru,\nže nám po--mů--že jej nés--ti.\nV_čas--ném svě--tě ne--ní mí--ru,\nne--dej--me se k_spán--ku svés--ti."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }
+}

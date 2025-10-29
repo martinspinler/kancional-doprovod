@@ -1,0 +1,32 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": "Vstup",
+            "lyrics": "Shléd--ni, Bo--že, z_ne--bes vy--so--kos--ti\nvlíd--ně k_sva--té o--bě--ti,\nkte--rou chce--me sla--vit v_u--přím--nos--ti\nsmr--ti Pá--ně k_pa--mě--ti.\nNe--po--hr--dej ka--jí--cí--mi sy--ny,\nkte--ří zna--jí sla--bost svou,\nza--hlaď, Ot--če, na--še mno--hé vi--ny\npro smrt Sy--na bo--lest--nou."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": "Před evangeliem",
+            "lyrics": "Po sta--le--tí ja--ko v_té--to chví--li\nli--dem zní tvůj, Pa--ne, hlas.\nDej nám sí--lu, by--chom u--vě--ři--li,\nže jsi při--šel me--zi nás.\nChcem dnes bý--ti k_hlu--ku svě--ta hlu--ší,\no--te--vřít tvé prav--dě sluch,\nv_úc--tě vní--mat o--te--vře--nou du--ší,\nco k_nám mlu--víš ty, náš Bůh."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": "Obětní průvod",
+            "lyrics": "Při--jmi, Bo--že, da--ry s_las--ka--vos--tí,\njež ti cír--kev po--dá--vá;\nkaž--dý z_nás ti srd--ce s_o--chot--nos--tí\nv_služ--bu věr--nou od--dá--vá.\nS_da--ry ze--mě, te--bou stvo--ře--ný--mi,\njak to Syn tvůj sta--no--vil,\ns_chle--bem, ví--nem na--ši ví--ru při--jmi\nk_ob--no--ve--ní na--šich sil."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": "Přijímání",
+            "lyrics": "A--bys nes--tál u za--vře--ných dve--ří,\na--bys na--šel ve mně chrám,\nze vší sí--ly v_te--be, Pa--ne vě--řím,\ndu--ši svou ti ot--ví--rám.\nI své tě--lo do tvých slu--žeb dá--vám,\ns_te--bou chci žít v_jed--no--tě,\na jen od tvé lás--ky o--če--ká--vám\nú--čast v_pří--štím ži--vo--tě."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": "Závěr",
+            "lyrics": "Dej mi ví--ru ho--rou--cí a stá--lou,\nsva--tou žeň tvé o--bě--ti,\ndej mi ví--ru, kte--rá poh--ne ská--lou,\njež mé srd--ce zpe--če--tí.\nDár--ce štěd--rých da--rů ne--pře--ber--ných,\njenž jsi při--šel me--zi nás,\nCes--to, Prav--do, Ži--vo--te svých věr--ných,\ns_ná--mi buď po vše--chen čas."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ó Bo--že, zde se to--bě kla--ní--me\na za po--moc v_svých bě--dách pro--sí--me.\nSva--tý, Sva--tý, Sva--tý,\nPán Bůh vždyc--ky Sva--tý,\npo--chvá--len buď s_vrouc--nos--tí\nv_Nej--svě--těj--ší svá--tos--ti."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ach, o--čis--ti nás hří--chem ztí--že--né,\ndej, ať jsme hod--ni bož--ské lás--ky tvé.\nSva--tý, Sva--tý, Sva--tý,\nPán Bůh vždyc--ky Sva--tý,\npo--chvá--len buď s_vrouc--nos--tí\nv_Nej--svě--těj--ší svá--tos--ti."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Buď tě--lem svým i kr--ví po--krm nám\na po--žeh--nej nás, Svr--cho--va--ný, sám.\nSva--tý, Sva--tý, Sva--tý,\nPán Bůh vždyc--ky Sva--tý,\npo--chvá--len buď s_vrouc--nos--tí\nv_Nej--svě--těj--ší svá--tos--ti."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+    }
+}

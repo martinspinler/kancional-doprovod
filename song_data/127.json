@@ -1,0 +1,32 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Za--ví--tej k_nám, Stvo--ři--te--li,\nnáš mi--lý Vy--ku--pi--te--li,\nu--kaž nám své slav--né bož--ství,\njenž jsi při--jal člo--vě--čen--ství."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Za--ví--tej k_nám svou mi--los--tí,\nz_na--šich srd--cí vy--žeň zlos--ti,\nby--chom z_tvé--ho na--vští--ve--ní\nmoh--li mí--ti po--tě--še--ní."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ví--tej, Kris--te, dra--hý hos--ti,\nk_nám se--stou--pil jsi z_vý--sos--ti,\nkra--lu--ješ v_nás svou mi--los--tí,\nDu--cha své--ho pří--tom--nos--tí."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Za--ví--tej z_da--ru Bo--ží--ho,\nnad te--be ne--ní lep--ší--ho,\nneb tys ten po--klad žá--da--ný,\nod Bo--ha nám da--ro--va--ný."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ví--tej, Svě--tlo všech an--dě--lů,\no--svěť srd--ce všech křes--ťa--nů,\nby--chom vždy pa--ma--to--va--li,\nčtve--rý pří--chod roz--jí--ma--li."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+    }
+}

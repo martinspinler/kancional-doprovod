@@ -1,0 +1,43 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": "Vstup",
+            "lyrics": "Hleď, moc--ný Hos--po--di--ne,\nk_nám z_věč--ných ne--bes hor,\njiž ol--tář jas--ný ky--ne\na zbož--ný pě--je sbor;\nó kéž se v_té--to do--bě\nproud sl--zí vy--ro--ní\na o--brá--tí nás k_to--bě,\nnám te--be na--klo--ní."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": "Vstup",
+            "lyrics": "Jak ve--li--ký jsi, Pa--ne,\njak slav--né jmé--no tvé!\nTvůj dech vším svě--tem va--ne,\nvše ří--díš v_mo--ci své.\nÓ bu--diž to--bě vzdá--na\nčest, chvá--la na--vě--ky!\nTys věč--ná spá--sy brá--na,\nzní ves--mír da--le--ký."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": "Před evangeliem",
+            "lyrics": "Své cír--kvi prav--dy slo--va\njsi svě--řil bez--peč--ně,\nv_nich o--na spá--su cho--vá\nvšem těm, kdo vě--ří v_ně;\nvždyť je--nom sva--tá ví--ra,\nač svět jí po--hr--dá,\nzdroj štěs--tí o--te--ví--rá,\nlék cho--ré du--ši dá."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": "Obětní průvod",
+            "lyrics": "Co, Pa--ne, to--bě dá--me\nv_dar za hřích spá--cha--ný?\nCo nej--draž--ší--ho má--me,\nje Syn tvůj se--sla--ný.\nBuď pro smrt tvé--ho Sy--na\nka--jí--cím hří--šní--kům\ndnes od--puš--tě--na vi--na\na trest nám vi--ní--kům."
+        },
+        {
+            "stanza_sheet": 5,
+            "section": "Přijímání",
+            "lyrics": "Hle, z_ne--be k_nám se--stou--pil\nSyn Bo--ží na ol--tář,\nsvou kr--ví nás vy--kou--pil,\nk_nám sklá--ní bož--skou tvář;\nchce bý--ti na--ším hos--tem,\nsvá srd--ce chys--tej--me\na za--svěť--me je ctnos--tem,\nPřijď, Pa--ne! vo--lej--me."
+        },
+        {
+            "stanza_sheet": 5,
+            "section": "Přijímání",
+            "lyrics": "Ó ví--tej, Pa--ne Kris--te,\njiž te--be ob--jí--mám,\nstvoř ve mně srd--ce čis--té,\nať v_dob--ru pros--pí--vám.\nSil mě svou kr--ví, tě--lem,\nať ví--ru za--cho--vám\na s_ďáb--lem ne--pří--te--lem\nv_boj ví--těz--ný se dám."
+        },
+        {
+            "stanza_sheet": 5,
+            "section": "Závěr",
+            "lyrics": "Již o--běť Je--ží--šo--va\nse vzne--sla k_vý--ši--nám\na z_ne--be mi--lost no--vá\nse hoj--ně sná--ší k_nám.\nNuž spě--jme k_po--vo--lá--ní,\nkam Bůh nám po--ky--ne,\nať nás pak po sko--ná--ní\nmzda věč--ná ne--mi--ne."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "5": [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+    }
+}

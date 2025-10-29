@@ -1,0 +1,37 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Přijď, Tvůr--ce, Du--chu Sva--tý, k_nám\na na--vštiv mys--lí na--šich chrám,\nz_vý--sos--ti ne--bes za--ví--tej,\ndo du--ší nám svou mi--lost vlej."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Tys U--tě--ši--tel prá--vem zván,\ntys dar, jenž Bo--hem věč--ným dán,\nzdroj ži--vý, lás--ky--pl--ný dech,\ntys po--svě--ce--ní mys--lí všech."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ty sed--mi da--rů stud--ni--ce,\nprst Ot--co--vy jsi pra--vi--ce,\ntys Bo--hem při--slí--be--ný host,\nty dá--váš ú--stům vý--mluv--nost."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Rač svě--tlo v_mys--li roz--žeh--nout,\nvlij do srd--cí nám lás--ky proud,\nna--še--ho tě--la sla--bos--ti\nzhoj si--lou svo--jí mi--los--ti."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Dál ne--pří--te--le za--pu--zuj\na du--ši po--koj u--dě--luj,\nať vždyc--ky pod ve--de--ním tvým\nvyh--nem se vli--vům škod--li--vým."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Na--uč nás Bo--ha Ot--ce znát\na Sy--na je--ho mi--lo--vat\na v_te--be, Du--chu sva--tý, zas\ndů--vě--řo--va--ti v_kaž--dý čas.\nA--men."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0]
+    }
+}
