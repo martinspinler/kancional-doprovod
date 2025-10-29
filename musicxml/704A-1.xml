@@ -2022,6 +2022,9 @@
         <stem>down</stem>
         <staff>2</staff>
       </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
     </measure>
     <measure number="13">
       <note>
