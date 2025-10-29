@@ -1,0 +1,22 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Je--den Pán, jed--na ví--ra, je--den křest po--jí nás,\ntvo--ří--me jed--no tě--lo, sly--ší--me Kris--tův hlas:\nOt--če, ať jsou jed--no, jak ty ve mně,\nať jsou svě--tlem svě--ta, so--lí ze--mě."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Po--má--hej, Du--chu lás--ky, od--pouš--tět a jít vstříc,\npo--má--hej, Du--chu prav--dy, po--zná--vat stá--le víc,\nže je Kris--tus je--den, ne--roz--dě--len,\nže je hla--vou cír--kve a my tě--lem."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Cír--kev tvá ať se sta--ne do--mo--vem li--dem všem,\nmís--tem, kde jsme si blí--zcí v_Je--ží--ši, bra--tru svém,\nkde se svá--tek lás--ky stá--le svě--tí,\nkde se sdí--lí všech--ny Bo--ží dě--ti."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }
+}
