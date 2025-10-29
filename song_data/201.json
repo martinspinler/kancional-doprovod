@@ -6,22 +6,23 @@
             "lyrics": "Na--ro--dil se Kris--tus Pán,\nve--sel--me se,\nz_rů--že kví--tek vy--kvet nám,\nra--duj--me se;\nz_ži--vo--ta čis--té--ho,\nz_ro--du krá--lov--ské--ho\nnám, nám na--ro--dil se."
         },
         {
-            "stanza_sheet": 1,
+            "stanza_sheet": 2,
             "section": null,
             "lyrics": "Jenž pro--ro--ko--ván jest,\nve--sel--me se,\nten na svět po--slán jest,\nra--duj--me se;\nz_ži--vo--ta čis--té--ho,\nz_ro--du krá--lov--ské--ho\nnám, nám na--ro--dil se."
         },
         {
-            "stanza_sheet": 1,
+            "stanza_sheet": 2,
             "section": null,
             "lyrics": "Člo--vě--čen--ství na--še,\nve--sel--me se,\nrá--čil vzí--ti na se,\nra--duj--me se;\nz_ži--vo--ta čis--té--ho,\nz_ro--du krá--lov--ské--ho\nnám, nám na--ro--dil se."
         },
         {
-            "stanza_sheet": 1,
+            "stanza_sheet": 2,
             "section": null,
             "lyrics": "Go--li--áš o--lou--pen,\nve--sel--me se,\nčlo--věk jest vy--kou--pen,\nra--duj--me se;\nz_ži--vo--ta čis--té--ho,\nz_ro--du krá--lov--ské--ho\nnám, nám na--ro--dil se."
         }
     ],
     "stanza_lengths": {
-        "1": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+        "1": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+        "2": [0, 1, 0, 0, 1,    0, 0, 0, 0, 0, 0, 0, 0, 0, 1,    0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
     }
 }
