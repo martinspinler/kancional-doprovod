@@ -1,0 +1,15 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ej--hle, Hos--po--din přij--de\na vši--chni sva--tí je--ho s_ním;\na bu--de v_o--nen den svět--lo vel--ké,\na--le--lu--ja.\nEj--hle, Hos--po--din přij--de\na vši--chni sva--tí je--ho s_ním;\na bu--de v_o--nen den svět--lo vel--ké,\na--le--lu--ja.\nEj--hle, Hos--po--din přij--de\na vši--chni sva--tí je--ho s_ním;\na bu--de v_o--nen den svět--lo vel--ké,\na--le--lu--ja."
+        }
+	],
+    "stanza_lengths": {
+        "1": [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 3,
+			  0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2,
+			  0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0
+		]
+    }
+}

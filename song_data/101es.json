@@ -1,0 +1,15 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Ro--su dej--te, ne--be--sa, shů--ry,\na o--bla--ko--vé, dště--te Spra--ved--li--vé--ho.\nO--tev--ři se, ze--mě,\na vy--dej Spa--si--te--le.\nNe--be--sa vy--pra--vu--jí slá--vu Bo--ží\na dí--lo ru--kou je--ho zvěs--tu--je o--blo--ha.\nSlá--va Ot--ci i Sy--nu\ni Du--chu Sva--té--mu.\nJa--ko by--la na po--čát--ku, i ny--ní i vždyc--ky\na na vě--ky vě--ků. A--men."
+        }
+	],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+			  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+			  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		]
+    }
+}
