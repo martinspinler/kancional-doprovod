@@ -1,0 +1,22 @@
+{
+    "stanzas": [
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Dej mi, Pa--ne, bdě--lé srd--ce,\nať se ti dnes ne--vzdá--lím ne--roz--váž--ným smý--šle--ním.\nDej mi srd--ce u--šlech--ti--lé,\njež by žád--ný špat--ný cit ne--do--ká--zal po--ní--žit."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Dej mi, Pa--ne, pev--né srd--ce,\nkte--ré ni--kdy ne--zlo--mí ne--sná--ze či po--hro--my.\nDej mi srd--ce ne--zá--vi--slé,\nsvo--bod--né a od--váž--né, po--vzne--se--né nad váš--ně."
+        },
+        {
+            "stanza_sheet": 1,
+            "section": null,
+            "lyrics": "Dej mi ro--zum, jenž tě hle--dá,\nmou--drost, kte--rá na--lez--ne ži--vot po--dle vů--le tvé.\nDej mi pra--vou, pev--nou ví--ru,\nlás--ku, v_níž se pře--tvo--řím\na sta--nu se zce--la tvým."
+        }
+    ],
+    "stanza_lengths": {
+        "1": [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }
+}
