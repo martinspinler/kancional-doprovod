@@ -65,6 +65,7 @@ parser.add_argument("-s", "--skip-bad", action=argparse.BooleanOptionalAction)
 parser.add_argument("-S", "--noshell", action=argparse.BooleanOptionalAction)
 parser.add_argument("-O", "--overwrite", action=argparse.BooleanOptionalAction)
 parser.add_argument("-L", "--generate-ly", action=argparse.BooleanOptionalAction)
+parser.add_argument("-T", "--noluatex", action=argparse.BooleanOptionalAction)
 args = parser.parse_args()
 
 if args.full:
@@ -308,12 +309,15 @@ for song, song_name in tqdm(songs.items()):
                     f.write(tex_source)
                     f.write(f"\\def\\transpozice{{{transp_str}}}")
 
-                subprocess.run(
-                    [
-                        "luatex",
-                        f"--jobname={fn_shift}",
-                        "--output-directory=../pdf",
-                        tex_templates[song_type]
-                    ],
-                    shell=not args.noshell, capture_output=True
-                )
+                if args.noluatex:
+                    pass
+                else:
+                    subprocess.run(
+                        [
+                            "luatex",
+                            f"--jobname={fn_shift}",
+                            "--output-directory=../pdf",
+                            tex_templates[song_type]
+                        ],
+                        shell=not args.noshell, capture_output=True
+                    )
