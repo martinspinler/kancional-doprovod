@@ -92,7 +92,7 @@ bad = set(map(purify, iglob("../log_ly/*.log")))
 
 roman = (
     "I,II,III,IV,V,VI,VII,VIII,IX,X,XI,XII,XIII,XIV,XV,XVI,"
-    "XV,XVI,XVII,XVIII,XIX,XX,XXI,XXII,XXIII,XXIV,XXV"
+    "XVII,XVIII,XIX,XX,XXI,XXII,XXIII,XXIV,XXV"
 ).split(",")
 
 for song, song_name in tqdm(songs.items()):
